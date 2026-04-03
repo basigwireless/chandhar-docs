@@ -2,13 +2,6 @@
 
 Advancing Wireless Communications through  Academic and Industry Collaboration, Research and Training.
 
----
-
-## Who We Are
-
-Chandhar Research Labs Pvt. Ltd., established in 2018 in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research and product development.
-
-[Learn more about us](about/company.md)
 
 ---
 
