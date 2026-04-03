@@ -39,15 +39,6 @@ We conduct hands‑on workshops, faculty development programs, and industry trai
 
 ---
 
-## Internships & Collaboration
-
-We offer internships and research collaboration opportunities for:
-
-- UG / PG Students  
--
-
----
-
 
 !!! info "Contact Us"
     Interested in collaboration, training, or product deployment?  
